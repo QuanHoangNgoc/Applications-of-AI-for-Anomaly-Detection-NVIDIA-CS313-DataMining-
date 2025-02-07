@@ -59,6 +59,8 @@ Anomaly detection plays a **critical role** in industries such as **cybersecurit
 👤 **Author:** Quan-Hoang-Ngoc  
 📩 **Contributions Welcome!** Feel free to fork this repo and enhance the models or add new datasets!  
 ⭐ **Support:** If you find this project useful, give it a **star** ⭐ on GitHub!
-[LinkToNVIDIA](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+C-TC-01+V1&unit=block-v1:DLI+C-TC-01+V1+type@vertical+block@7c69d9e9290e4a5eae54f881f5e0097f)
 🔥 **Let's make AI-powered anomaly detection smarter!** 🚀
+
+### Ref Links 
+- [LinkToNVIDIA](https://learn.nvidia.com/courses/course?course_id=course-v1:DLI+C-TC-01+V1&unit=block-v1:DLI+C-TC-01+V1+type@vertical+block@7c69d9e9290e4a5eae54f881f5e0097f)
 
